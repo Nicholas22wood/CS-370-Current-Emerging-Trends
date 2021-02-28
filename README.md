@@ -10,4 +10,4 @@ How do I approach a problem as a computer scientist?
 Since I began working towards a degree in computer scientist my approach to problems has been changed to be much more centered around the user. Previously I would have a problem and I would think of solving the problem as quickly and efficiently as possible. Now if I have a problem then I think of solutions that would be efficient, secure, and work much more smoothly. I would also try to layout potential solutions and how they would function, this allows me to visualize potential solutions and have notes to come back to. 
 
 What are my ethical responsibilities to the end user and the organization?
-
+Being a computer scientist and creating stuff that many users use and even organizations use I must make sure that my ethical responsibilities are aligned correctly. With many personal information passes through the system I have to make sure that there information is not compromised and that we can be trusted to keep their information safe. We must also be transparent in the information they give us and not to munipulate their information or preferences. 
